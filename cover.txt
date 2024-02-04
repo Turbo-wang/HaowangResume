@@ -1,0 +1,13 @@
+Hello Hiring Manager,
+
+My name is Hao Wang.  and I’m writing to apply for the Java backend engineer role on your team.  I have over five years of experience with system designing and  programming. And I'm good at programming with Java, Spring Boot and Python.
+My current work is mainly using Java on a team with one front-end Dev. I support all of our system design and implementation. Our platforms have been served over 1000 clients. 
+In addition, My last work is in Tencent company and I worked there for there years. I implemented several modules in Tencent Financial department and Tencent Search Department which made a big difference to their businesses.
+
+I've gotten a Quality Migrant Admission Schame visa in Hong Kong recently, so I am so eager to take on a new challenge and I see this as the perfect opportunity to contribute and grow in Hong Kong.
+ 
+I've attached my resume and my cover letter. I look forward to discussing this role in more detail. 
+
+Sincerely,
+
+Hao Wang
